@@ -6,4 +6,3 @@ Static Website;
 Streamlit Website;
 
 
-http://iicthost.byethost32.com/my.html
