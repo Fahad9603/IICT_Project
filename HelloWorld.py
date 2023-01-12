@@ -6,6 +6,9 @@ import streamlit as st
 st.markdown("# About ❄️")
 st.sidebar.markdown("# About ❄️")
 
+st.markdown("# Welcome 3 🎉")
+st.sidebar.markdown("# Welcome 3 🎉")
+
 st.title('Hello World!')
 st.write("""Hello World! 
 	_This is some really cool stuff._  
