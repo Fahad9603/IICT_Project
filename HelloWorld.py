@@ -2,6 +2,10 @@ import streamlit as st
 #import pandas as pd
 #import numpy as np
 
+
+st.markdown("# About ❄️")
+st.sidebar.markdown("# About ❄️")
+
 st.title('Hello World!')
 st.write("""Hello World! 
 	_This is some really cool stuff._  
